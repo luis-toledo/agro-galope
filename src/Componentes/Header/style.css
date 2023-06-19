@@ -1,0 +1,15 @@
+.App-header{
+    display: flex;
+    margin: 0 5%;
+    justify-content: space-between;
+    align-items: center;
+  }
+ 
+.teste{
+    display: flex;
+    align-items: center;
+}
+
+li{
+  list-style: none;
+}

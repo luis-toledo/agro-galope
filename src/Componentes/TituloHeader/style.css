@@ -1,0 +1,5 @@
+.titulo-header {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,10 @@
+.opcoes {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.opcao {
+  margin-left: 30px;
+  cursor: pointer;
+}
